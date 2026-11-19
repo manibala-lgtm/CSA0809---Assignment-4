@@ -1,0 +1,2 @@
+File,Line,Problem
+day02.txt,3,invalid status 'X'
