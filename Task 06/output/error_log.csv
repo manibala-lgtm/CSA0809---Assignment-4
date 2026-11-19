@@ -1,0 +1,5 @@
+File,Line,Problem
+department_ai.txt,3,invalid email address
+input/department_cse.txt,3,"expected 5 fields, found 6"
+department_cse.txt,1,duplicate registration 192311001; first record retained
+input/department_civil.txt,0,FileNotFoundError: [Errno 2] No such file or directory: 'input/department_civil.txt'

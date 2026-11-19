@@ -1,0 +1,7 @@
+Valid unique registrations: 6
+Events: 4
+Dance: 2 participants
+Drama: 2 participants
+Music: 2 participants
+Quiz: 2 participants
+Rejected or duplicate records: 4
