@@ -1,0 +1,4 @@
+192311001,Anu,AI&DS,anu@example.com,Music;Dance
+192311002,Bala,AI&DS,bala@example.com,Quiz
+192311003,Charan,AI&DS,charanexample.com,Music
+192311004,Divya,AI&DS,divya@example.com,Drama
